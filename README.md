@@ -13,7 +13,7 @@ This is an interactive **Streamlit dashboard** for performing **sentiment analys
 
 ## 🚀 Live App
 
-You can deploy the app on [Streamlit Cloud]([https://streamlit.io/cloud](https://3q5ziutqrsqyjuwo8z7ern.streamlit.app/)) or run it locally.
+You can deploy the app on [Streamlit Cloud](https://3q5ziutqrsqyjuwo8z7ern.streamlit.app/) or run it locally.
 
 ---
 
